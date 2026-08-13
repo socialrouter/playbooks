@@ -1,0 +1,19 @@
+{
+  "name": "audience-miner",
+  "version": "0.1.0",
+  "description": "Turn a competitor's LinkedIn audience into a named prospect list, ranked on what people wrote and how often they showed up.",
+  "author": {
+    "name": "SocialRouter",
+    "url": "https://www.socialrouter.io"
+  },
+  "homepage": "https://www.socialrouter.io",
+  "repository": "https://github.com/socialrouter/playbooks",
+  "license": "MIT",
+  "keywords": [
+    "linkedin",
+    "prospecting",
+    "lead-generation",
+    "go-to-market",
+    "social-media"
+  ]
+}

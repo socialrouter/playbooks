@@ -1,0 +1,23 @@
+{
+  "name": "socialrouter",
+  "owner": {
+    "name": "SocialRouter",
+    "url": "https://www.socialrouter.io"
+  },
+  "description": "SocialRouter's go-to-market playbooks. One plugin per playbook, install only the one you came for.",
+  "plugins": [
+    {
+      "name": "audience-miner",
+      "source": "./audience-miner",
+      "description": "Turn a competitor's LinkedIn audience into a named prospect list: reads the account's recent posts, collects who commented and reacted, enriches title and company, and ranks everyone in four tiers.",
+      "category": "productivity",
+      "keywords": [
+        "linkedin",
+        "prospecting",
+        "lead-generation",
+        "go-to-market",
+        "social-media"
+      ]
+    }
+  ]
+}
