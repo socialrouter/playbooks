@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "socialrouter": {
+      "type": "http",
+      "url": "https://mcp.socialrouter.io/mcp"
+    }
+  }
+}

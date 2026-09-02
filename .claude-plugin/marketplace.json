@@ -18,6 +18,19 @@
         "go-to-market",
         "social-media"
       ]
+    },
+    {
+      "name": "post-finder",
+      "source": "./post-finder",
+      "description": "Turn a profile URL into that account's recent posts, in full text: picks the right service per platform, batches the profiles, and returns each post with its date, engagement and URL.",
+      "category": "productivity",
+      "keywords": [
+        "linkedin",
+        "social-listening",
+        "competitive-research",
+        "go-to-market",
+        "social-media"
+      ]
     }
   ]
 }

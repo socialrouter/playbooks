@@ -22,6 +22,7 @@ New accounts start with free credits. No card, no subscription.
 | Plugin | Install | What it does |
 | --- | --- | --- |
 | [`audience-miner`](audience-miner/SKILL.md) | `/plugin install audience-miner@socialrouter` | Turns a competitor's LinkedIn audience into a named prospect list, ranked in four tiers on what people wrote and how often they showed up. |
+| [`post-finder`](post-finder/SKILL.md) | `/plugin install post-finder@socialrouter` | Turns a profile URL into that account's recent posts in full text, on LinkedIn, Instagram, Facebook, TikTok, YouTube and Reddit. |
 
 ## Somewhere without a browser
 

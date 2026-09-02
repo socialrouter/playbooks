@@ -1,0 +1,19 @@
+{
+  "name": "post-finder",
+  "version": "0.1.0",
+  "description": "Turn a profile URL into that account's recent posts, in full text, across LinkedIn, Instagram, Facebook, TikTok, YouTube and Reddit.",
+  "author": {
+    "name": "SocialRouter",
+    "url": "https://www.socialrouter.io"
+  },
+  "homepage": "https://www.socialrouter.io",
+  "repository": "https://github.com/socialrouter/playbooks",
+  "license": "MIT",
+  "keywords": [
+    "linkedin",
+    "social-listening",
+    "competitive-research",
+    "go-to-market",
+    "social-media"
+  ]
+}
